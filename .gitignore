@@ -190,3 +190,6 @@ nohup.out
 
 scraper_cache/
 .vscode/
+
+week5/rag_my_own_notes.ipynb
+week5/my_notes_vector_db/
