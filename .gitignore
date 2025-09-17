@@ -193,3 +193,4 @@ scraper_cache/
 
 week5/rag_my_own_notes.ipynb
 week5/my_notes_vector_db/
+*/.env
